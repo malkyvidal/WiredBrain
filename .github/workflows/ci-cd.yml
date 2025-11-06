@@ -22,7 +22,7 @@ jobs:
     
     - id: build 
       name: Build 
-      run: dotnet build --no restore
+      run: dotnet build --no-restore
 
 
     
